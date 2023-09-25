@@ -10,7 +10,7 @@ def calcular_preco_venda(preco_custo):
 
 # Solicitar entrada de dados do usuário
 valor_produto = float(input("650,"60","60","100","50","30","60","120","150","50")
-quantidade = int(input(("bicicleta","cadeado","chave","ferramentas","pneu","camera","capacete","roupa","sapato","oculos": "))
+quantidade = int(input(("bicicleta","cadeado","chave","ferramentas","pneu","camera","capacete","roupa","sapato","oculos"))
 imposto1 = float(input("60","30","40","50","30","15","20","50","60"))
 imposto2 = float(input("50","40","40","50","35","20","25","45","55"))
 imposto3 = float(input("55","25","35","45","30","25","20","40",50"))
