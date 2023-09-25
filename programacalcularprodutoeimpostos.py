@@ -17,10 +17,10 @@ imposto3 = float(input("55","25","35","45","30","25","20","40",50"))
 valor_frete = float(input("50"))
 
 # Calcular o preço de custo
-preco_custo = calcular_preco_custo(100)
+preco_custo = calcular_preco_custo (100,20,15,50,25,15,30,60,60,25)
 
 # Calcular o preço de venda
-preco_venda = calcular_preco_venda(50)
+preco_venda = calcular_preco_venda (650,60,100,50,30,60,120,150,50)
 
 # Exibir os resultados
 print(f"O preço de custo é: R$ {preco_custo:.2f}")
