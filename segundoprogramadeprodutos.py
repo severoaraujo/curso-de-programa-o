@@ -1,8 +1,8 @@
-# Lista para armazenar os detalhes dos produtos
+Lista para armazenar os detalhes dos produtos
 produtos = []
 
 calcular_preco_custo(valor_compra, quantidade, frete_total):
-    preco_custo = valor_compra + (frete_total / quantidade)
+    preco_custo = 1000 + (100 / 100)
     return preco_custo
 
 calcular_preco_venda(preco_custo, porcentagem_lucro, imposto1, imposto2, imposto3):
@@ -57,3 +57,4 @@ while True:
 
     else:
         print("Opção inválida. Por favor, escolha uma opção válida.")
+
