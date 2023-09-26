@@ -1,4 +1,4 @@
-Lista para armazenar os detalhes dos produtos
+# Lista para armazenar os detalhes dos produtos
 produtos = []
 
 calcular_preco_custo(valor_compra, quantidade, frete_total):
@@ -57,4 +57,3 @@ while True:
 
     else:
         print("Opção inválida. Por favor, escolha uma opção válida.")
-
