@@ -1,1 +1,5 @@
+distância_em_km = float(input("Digite a distância  "))
+minutos= float (input("digite os minutos"))  
+velocidade=(distancia/minutos*60)
+print(velocidade,"km/H")
 
